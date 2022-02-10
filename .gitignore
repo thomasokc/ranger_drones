@@ -1,0 +1,6 @@
+rangers_env
+__pychache__
+migrations
+.env
+app.db
+sql.sql
